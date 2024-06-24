@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Cutom Colors -->
+    <color name="acikmor">#793875</color>
+    <color name="koyu_mor">#2c1c3e</color>
+    <color name="beyaz">#ffffff</color>
+    <color name="gri">#C7C8CC</color>
+</resources>
